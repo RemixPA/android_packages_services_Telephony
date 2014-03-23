@@ -42,11 +42,13 @@
     </string-array>
 
     <string-array name="forward_lookup_providers" translatable="false">
+        <item>Baidu</item>
         <item>Google</item>
         <item>OpenStreetMap</item>
     </string-array>
 
     <string-array name="forward_lookup_provider_names" translatable="false">
+        <item>Baidu</item>
         <item>Google</item>
         <item>OpenStreetMap</item>
     </string-array>
