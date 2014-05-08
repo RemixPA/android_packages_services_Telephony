@@ -18,4 +18,6 @@
     <string name="national_roaming">国际漫游</string>
     <string name="national_roaming_enable">国际漫游时连接数据服务</string>
     <string name="national_roaming_disable">国际漫游时不连接数据服务</string>
+    <string name="bg_incall">后台提示来电</string>
+    <string name="bg_incall_summary">屏幕亮起时，保持来电接听界面在后台，只显示通知与铃声</string>
 </resources>
